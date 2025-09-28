@@ -5,11 +5,6 @@ ETL and analysis of Reddit Pushshift data in PostgreSQL, using normalized tables
 ## Description
 ETL and analysis of Reddit Pushshift data in PostgreSQL using normalized tables, relationships, and bulk loading with the COPY command. This project covers creating tables, defining relationships, loading large datasets, and running SQL queries to analyze Reddit comments, submissions, authors, and subreddits.
 
-## Assignment Details
-- Course: CSE 511 - Data Processing at Scale
-- Term: Fall 2025
-- Dataset: Reddit Pushshift dataset (historical Reddit data)
-
 ## Project Files
 
 - `create_tables.sql`  
